@@ -1,3 +1,3 @@
 # tomgooo-image
 tomgooo-image
-![test1](图片链接)
+![test1](https://github.com/tomgooo/tomgooo-image/blob/main/space.jpg)
